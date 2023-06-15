@@ -1,0 +1,277 @@
+* {
+    margin: 0%;
+    font-family: sans-serif;
+
+}
+
+header {
+    background-color: #f7f8f8;
+    padding-bottom: 10px;
+    position: sticky;
+    top: 0;
+    z-index: 6;
+}
+
+.nav1 {
+    padding-top: 0.8rem;
+}
+
+.logo1 {
+    width: 40px;
+    height: 28px;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    padding-bottom: 1rem;
+}
+
+.mr-2rem {
+    margin-right: 2rem;
+}
+
+
+.nav1-logo {
+    width: 30px;
+    height: 28px;
+    padding-bottom: 1rem;
+    margin-right: 3px;
+}
+
+.nav1-text {
+    color: rgb(61, 60, 60);
+    padding-bottom: 1rem;
+    margin-top: 0.5rem;
+    font-size: 12px;
+}
+
+.nav1-text:hover {
+    color: blue;
+}
+
+.nav2 {
+    padding-top: 0.2rem;
+}
+
+.logo2 {
+    width: 60px;
+    height: 35px;
+    margin-left: 2rem;
+    margin-right: 2.5rem;
+    padding-top: 0.5rem;
+}
+
+#Search1 {
+    background-image: url(https://img.uxwing.com/wp-content/themes/uxwing/download/user-interface/search-icon.png), url(https://www.olx.com.pk/assets/iconArrowDown_noinline.ec05eae7013321c193965ef15d4e2174.svg);
+
+    background-position: left center, right center;
+    padding: 13px 20px 13px 28px;
+    background-size: 25px;
+    width: 260px;
+    font-size: medium;
+}
+
+#Search2 {
+    margin-left: 15px;
+    padding: 13px 15px 13px 32px;
+    width: 650px;
+    font-size: medium;
+}
+
+button {
+    width: 50px;
+    height: inherit;
+}
+
+.login {
+    padding: 3px;
+    margin: 10px 10px 10px 20px;
+    font-size: 18px;
+}
+
+.sell-icon {
+    width: fit-content;
+    height: inherit;
+}
+
+.plus-icon {
+    width: 15px;
+    height: 15px;
+    right: 81px;
+    top: 17px;
+}
+
+.sell-text {
+    margin: 2px;
+    right: 64px;
+    top: -1px;
+}
+
+.main-nav {
+    padding: 20px;
+    font-size: medium;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .1);
+}
+
+
+.category {
+    margin-right: 20px;
+}
+
+.category-arrow {
+    width: 15px;
+    height: 15px;
+    margin: 1px 4px;
+}
+
+.features-list li a:hover {
+    color: gray;
+}
+
+.features-list li a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: black;
+}
+
+.main-image {
+    width: 1325px;
+    padding: 10px 10px;
+}
+
+.card-head {
+    font-size: x-large;
+    padding: 10px 40px;
+}
+
+.cards-list {
+    margin-bottom: 20px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 310px;
+    height: 400px;
+    margin: 10px;
+    background-color: #f7f8f9;
+}
+
+.card-price {
+    font-size: larger;
+    margin: 10px;
+}
+
+.card-describe {
+    font-size: large;
+    min-height: 90px;
+}
+
+.area {
+
+    font-size: medium;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    padding: 2px 16px;
+    max-height: fit-content;
+}
+
+.main-end {
+    height: 200px;
+    background-color: #f7f8f8;
+
+}
+
+.MobImg {
+    width: 450px;
+    height: -webkit-fill-available;
+}
+
+.olxapp-description {
+    width: 450px;
+}
+
+
+.olxapp-text1 {
+    font-size: xx-large;
+    margin: 20px 40px;
+}
+
+.olxapp-text2 {
+    font-size: larger;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.vertical-line {
+    width: 2px;
+    background-color: rgba(0, 47, 52, .2);
+    height: 80%;
+}
+
+
+.olxapp-text3 {
+    font-size: 0.9rem;
+    margin: 80px 28px 0px 28px;
+}
+
+.olxapp-images {
+
+    margin: 10px 28px;
+}
+
+.olxapp-image {
+    width: 120px;
+    height: 50px;
+    margin-right: 10px;
+}
+
+.footer-top {
+    background-color: #ebeeef;
+    border-top: 1px solid rgba(0, 47, 52, .2);
+}
+
+.footer-top-features {
+    padding: 30px 0px 80px 0px;
+    margin: 0px 35px;
+}
+
+.footer-top-features-list ul li {
+    font-size: smaller;
+    margin-bottom: 5px;
+    width: 150px;
+    color: gray;
+
+}
+
+.footer-top-features-list ul li:hover {
+    color: black;
+}
+
+.social-icons {
+    margin-top: 5px;
+}
+
+.icon-sizes {
+    width: 24px;
+    height: 24px;
+}
+
+.social-apps {
+    margin-top: 25px;
+}
+
+.app-sizes {
+    width: 80px;
+    height: 40px;
+}
+
+.bottom-text {
+    padding: 1.2rem 1.8rem 1.6rem 1.8rem;
+    background-color: #002f34;
+    color: #fff;
+    font-size: 12px;
+}

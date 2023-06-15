@@ -1,0 +1,37 @@
+olx title-icon link : https://www.olx.com.pk/assets/favicon-32x32.00d020d6d9a5e92de35779a72f4cc76a.png
+
+olx logo1 link : https://upload.wikimedia.org/wikipedia/commons/4/42/OLX_New_Logo.png
+
+olx logo2 link : https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/OLX_green_logo.svg/98px-OLX_green_logo.svg.png?20210212152532
+
+car logo link : https://e7.pngegg.com/pngimages/768/421/png-clipart-car-computer-icons-sedan-auto-detailing-auto-driving-rectangle-thumbnail.png
+
+property logo link : https://w7.pngwing.com/pngs/19/66/png-transparent-logo-brand-building-angle-building-text.png
+
+search icon background link :https://img.uxwing.com/wp-content/themes/uxwing/download/user-interface/search-icon.png
+
+dropdown icon background link : https://www.olx.com.pk/assets/iconArrowDown_noinline.ec05eae7013321c193965ef15d4e2174.svg
+
+sell-icon link : https://www.olx.com.pk/assets/iconSellBorder_noinline.d9eebe038fbfae9f90fd61d971037e02.svg
+
+plus icon link :https://www.olx.com.pk/assets/iconPlusSell_noinline.75fc7ea23e80b50447cf5757d8ef083a.svg
+
+category-arrow link : https://www.olx.com.pk/assets/iconArrowDown_noinline.ec05eae7013321c193965ef15d4e2174.svg
+
+main-image link : https://images.olx.com.pk/thumbnails/363962755-800x600.webp
+
+olx mob image link :  https://www.olx.com.pk/assets/olxMobileApp.f5579f77e849b600ad60857e46165516.webp
+
+app store link : https://www.olx.com.pk/assets/iconAppStoreEN_noinline.a731d99c8218d6faa0e83a6d038d08e8.svg
+
+googleplay link: https://www.olx.com.pk/assets/iconGooglePlayEN_noinline.9892833785b26dd5896b7c70b089f684.svg
+
+AppGallery link : https://www.olx.com.pk/assets/iconAppGallery_noinline.6092a9d739c77147c884f1f7ab3f1771.svg
+
+fb-icon link :  https://www.olx.com.pk/assets/iconFacebook_noinline.773db88c5b9ee5aaab365e61cdb750da.svg
+
+twitter-icon link : https://www.olx.com.pk/assets/iconTwitter_noinline.6037fa7d9a7b9d6408fb1b3d70524b97.svg
+
+youtube-icon link : https://www.olx.com.pk/assets/iconYoutube_noinline.c85bd6801ec83d6a3b498059550bef26.svg
+
+instagram-icon link : https://www.olx.com.pk/assets/iconInstagram_noinline.d7d5811ebc44e03a674c8d0b5ff3f232.svg
